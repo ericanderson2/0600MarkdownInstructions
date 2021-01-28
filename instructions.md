@@ -27,4 +27,4 @@ Zoom is a powerful piece of software with many customization options that users 
 ### 7. Enable your virtual background
 * Click the thumbnail of the video of your choice within the backgrounds and filters settings. To set no virtual background, select the thumbnail that says "none".
 * Sign out of your account and sign back in for the virtual background to be enabled.
-* For the best results, make sure you set up your camera in front of a plain wall durring Zoom meetings.
+* For the best results, make sure you set up your camera in front of a plain wall during Zoom meetings.
